@@ -85,4 +85,4 @@ This project demonstrated how data visualization can make complex financial data
 ## Project Resources
 - **[Borrower Profile Analysis Report](https://github.com/vignesh4005/Power_BI_Bank_Loan_Performance_Analysis/blob/main/Bank%20Loan%20Performance%20Analysis/Borrower%20Profile%20Analysis.png)** <!-- Replace with actual link -->
 - **[Loan Performance Report](https://github.com/vignesh4005/Power_BI_Bank_Loan_Performance_Analysis/blob/main/Bank%20Loan%20Performance%20Analysis/Loan%20Performance%20Analysis.png)** <!-- Replace with actual link -->
-- [Project Guide Sheet](https://github.com/vignesh4005/Power_BI_Bank_Loan_Performance_Analysis/blob/main/Bank%20Loan%20Performance%20Analysis%20Guide%20Sheet.pdf) <!-- Replace with actual link -->
+- [Project Presentation](https://github.com/vignesh4005/Bank_Loan_Performance_Analysis/blob/main/Bank%20Loan%20Performance%20Analysis%20Summary.pdf) <!-- Replace with actual link -->
